@@ -1,0 +1,13 @@
+body {
+    background: url("744908.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.jumbotron {
+    padding-top: 4rem;
+}  
+section {
+    padding-top: 5rem;
+}
